@@ -1,15 +1,17 @@
-* Ruby version
+This app is a Yelp Demo built using Ruby on Rails hosted on Heroku
 
-* System dependencies
+Features include:
 
-* Configuration
+*  authentication system using devise.
 
-* Database creation
+* Bootstrap for Front End.
 
-* Database initialization
+* Adding images for restaurant using Carrierwave gem and Amazon AWS S3 storage.
 
-* How to run the test suite
+* Users can add reviews.
 
-* Services (job queues, cache servers, search engines, etc.)
+* Only Admin can add restaurants.
 
-* Deployment instructions
+* Star ratings using Raty JQuery.
+
+Demo [http://yelplike.herokuapp.com/]
